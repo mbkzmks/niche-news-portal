@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>海外ニッチニュース速報｜世界の珍事件・科学・オカルト・裏歴史</title>
+  <meta name="description" content="日本の大手メディアが報じない世界の珍ニュース、奇妙な科学論文、オカルト、裏歴史を海外18メディアから自動収集・翻訳してお届けします。">
+  <!-- OGP設定（SNSシェア用） -->
+  <meta property="og:title" content="海外ニッチニュース速報">
+  <meta property="og:description" content="日本のメディアが報じない世界の奇妙なニュース・科学・裏歴史まとめ">
+  <meta property="og:type" content="website">
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #1e293b;
+      --text: #f8fafc;
+      --muted: #94a3b8;
+      --accent: #38bdf8;
+      --border: #334155;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Hiragino Sans", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding-bottom: 60px;
+    }
+    header {
+      background: rgba(15, 23, 42, 0.92);
+      backdrop-filter: blur(8px);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      border-bottom: 1px solid var(--border);
+      padding: 12px 16px;
+    }
+    .header-inner { max-width: 900px; margin: 0 auto; }
+    h1 {
+      font-size: 1.15rem;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .updated { font-size: 0.75rem; color: var(--muted); font-weight: normal; }
+    .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+    .tabs { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; }
+    .tab {
+      background: var(--card);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: 0.2s;
+    }
+    .tab.active {
+      background: var(--accent);
+      color: #0f172a;
+      font-weight: bold;
+      border-color: var(--accent);
+    }
+    input[type="search"] {
+      flex: 1;
+      min-width: 180px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      outline: none;
+    }
+    input[type="search"]:focus { border-color: var(--accent); }
+    main {
+      max-width: 900px;
+      margin: 16px auto;
+      padding: 0 16px;
+      display: grid;
+      gap: 12px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px;
+      transition: border-color 0.15s;
+    }
+    .card:hover { border-color: var(--accent); }
+    .meta {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+    .badge { padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.7rem; }
+    .cat-科学 { background: #0284c7; color: #fff; }
+    .cat-オカルト { background: #7c3aed; color: #fff; }
+    .cat-裏歴史 { background: #b45309; color: #fff; }
+    .cat-B級事件 { background: #be123c; color: #fff; }
+    .ja-title { font-size: 1.05rem; font-weight: bold; margin-bottom: 8px; }
+    .ja-title a { color: var(--text); text-decoration: none; }
+    .ja-title a:hover { color: var(--accent); text-decoration: underline; }
+    .en-title { font-size: 0.78rem; color: var(--muted); }
+    footer {
+      max-width: 900px;
+      margin: 32px auto 0;
+      padding: 16px;
+      border-top: 1px solid var(--border);
+      font-size: 0.75rem;
+      color: var(--muted);
+      text-align: center;
+    }
+    #status { text-align: center; padding: 40px; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>
+        <span>🌍 海外ニッチニュース速報</span>
+        <span class="updated" id="updatedAt">読み込み中...</span>
+      </h1>
+      <div class="controls">
+        <div class="tabs" id="tabs">
+          <button class="tab active" data-cat="すべて">すべて</button>
+          <button class="tab" data-cat="科学">🔬 科学</button>
+          <button class="tab" data-cat="オカルト">🛸 オカルト</button>
+          <button class="tab" data-cat="裏歴史">🏛️ 裏歴史</button>
+          <button class="tab" data-cat="B級事件">🤡 B級事件</button>
+        </div>
+        <input type="search" id="search" placeholder="キーワード検索...">
+      </div>
+    </div>
+  </header>
+
+  <main id="list">
+    <div id="status">ニュースを読み込み中...</div>
+  </main>
+
+  <footer>
+    ※各記事の日本語見出しは海外RSSフィードからの機械翻訳による参考訳です。正確な内容・詳細はリンク先の元記事をご確認ください。
+  </footer>
+
+  <script>
+    let allNews = [];
+    let currentCategory = "すべて";
+    let searchQuery = "";
+
+    // 同一オリジンの静的JSONを読み込み（キャッシュ回避クエリ付き）
+    fetch("./news.json?t=" + Math.floor(Date.now() / 60000))
+      .then(res => {
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        return res.json();
+      })
+      .then(data => {
+        allNews = Array.isArray(data.items) ? data.items : [];
+        document.getElementById("updatedAt").textContent =
+          data.updatedAt ? `最終更新: ${data.updatedAt} (${allNews.length}件)` : "";
+        render();
+      })
+      .catch(err => {
+        document.getElementById("status").textContent = "データの読み込みに失敗しました: " + err.message;
+      });
+
+    document.getElementById("tabs").addEventListener("click", e => {
+      if (!e.target.classList.contains("tab")) return;
+      document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+      e.target.classList.add("active");
+      currentCategory = e.target.dataset.cat;
+      render();
+    });
+
+    document.getElementById("search").addEventListener("input", e => {
+      searchQuery = e.target.value.toLowerCase();
+      render();
+    });
+
+    function render() {
+      const container = document.getElementById("list");
+      const filtered = allNews.filter(item => {
+        const matchCat = currentCategory === "すべて" || item.category === currentCategory;
+        const matchSearch = !searchQuery ||
+          item.title.toLowerCase().includes(searchQuery) ||
+          item.enTitle.toLowerCase().includes(searchQuery) ||
+          item.source.toLowerCase().includes(searchQuery);
+        return matchCat && matchSearch;
+      });
+
+      if (filtered.length === 0) {
+        container.innerHTML = `<div id="status">該当するニュースがありません</div>`;
+        return;
+      }
+
+      container.innerHTML = filtered.map(item => `
+        <article class="card">
+          <div class="meta">
+            <span class="badge cat-${escapeHtml(item.category)}">${escapeHtml(item.category)}</span>
+            <strong>${escapeHtml(item.source)}</strong>
+            <span>・${escapeHtml(item.date)}</span>
+          </div>
+          <div class="ja-title">
+            <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
+          </div>
+          <div class="en-title">原題: ${escapeHtml(item.enTitle)}</div>
+        </article>
+      `).join("");
+    }
+
+    function escapeHtml(str) {
+      if (!str) return "";
+      return String(str).replace(/[&<>"']/g, m => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+      })[m]);
+    }
+  </script>
+</body>
+</html>
