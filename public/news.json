@@ -1,6 +1,182 @@
 {
-  "updatedAt": "2026/11/26 12:24",
+  "updatedAt": "2026/11/27 00:22",
   "items": [
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "「アッティラの墓を発見してみたい」：Live Scienceの読者が、どんな考古学的発見をしたいかについて意見を述べる",
+      "enTitle": "I would love to discover Attila's grave': Live Science readers weigh in on which archaeological discoveries they would want to find",
+      "url": "https://www.livescience.com/archaeology/i-would-love-to-discover-attilas-grave-live-science-readers-weigh-in-on-which-archaeological-discoveries-they-would-want-to-find",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "星空観賞に憧れますか？ブラックフライデーで見つけた最高の望遠鏡、スマート望遠鏡、双眼鏡のお買い得情報をご紹介します。あなたの天体観測スキルをさらに向上させましょう。",
+      "enTitle": "Stars in your eyes? These are the best Black Friday telescopes, smart telescopes and binocular deals we've found to raise your skywatching game",
+      "url": "https://www.livescience.com/products/optics/stars-in-your-eyes-these-are-the-best-black-friday-telescopes-smart-telescopes-and-binocular-deals-weve-found-to-raise-your-skywatching-game",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "「あなたの仕事は一つだけだったのに」：天体物理学者でスタートレックの科学アドバイザーを務めるエリン・マクドナルドが、成功の秘訣と、彼女を悩ませる科学的な失敗について語る",
+      "enTitle": "You had one job': Astrophysicist and Star Trek science advisor Erin MacDonald on the secret to her success and the science flubs that haunt her",
+      "url": "https://www.livescience.com/space/astronomy/you-had-one-job-astrophysicist-and-star-trek-science-advisor-erin-macdonald-on-the-secret-to-her-success-and-the-science-flubs-that-haunt-her",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "New Scientist",
+      "title": "極低温原子は量子理論の重大な欠陥を解明するのに役立つ可能性がある",
+      "enTitle": "Ultracold atoms could help unravel a major flaw in quantum theory",
+      "url": "https://www.newscientist.com/article/2600718-ultracold-atoms-could-help-unravel-a-major-flaw-in-quantum-theory/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "New Scientist",
+      "title": "AIは数学における最も難しい問題を解決した。AIにできないことはあるのだろうか？",
+      "enTitle": "AI solved the hardest problem in maths – is there anything it can’t do?",
+      "url": "https://www.newscientist.com/article/2600704-ai-solved-the-hardest-problem-in-maths-is-there-anything-it-cant-do/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "New Scientist",
+      "title": "防衛技術革命は、私たちのイノベーションの方法を変えつつあります",
+      "enTitle": "The defence tech revolution is changing how we innovate",
+      "url": "https://www.newscientist.com/article/2599276-the-defence-tech-revolution-is-changing-how-we-innovate/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Futurism",
+      "title": "男性がWaymo車内で実弾入りの銃を発見したと主張し、遅刻の新たな言い訳が飛び出した。",
+      "enTitle": "New Excuse for Being Late Just Dropped as Man Claims to Find Loaded Firearm in His Waymo",
+      "url": "https://futurism.com/advanced-transport/man-claims-loaded-firearm-waymo",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "すべての集団は少数者による支配へと向かうのだろうか？時間が味方している限りはそうではない。",
+      "enTitle": "Do all groups drift toward rule by the few? Not when time is on their side",
+      "url": "https://phys.org/news/2026-11-groups-drift-side.html",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "興味から事実を学ぶことは、お金のために学ぶよりも精神的な労力が少なくて済むかもしれない。",
+      "enTitle": "Learning facts out of interest may take less mental effort than learning them for money",
+      "url": "https://phys.org/news/2026-11-facts-mental-effort-money.html",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "希少疾患関連タンパク質におけるアミノ酸輸送の2つのメカニズムが明らかになった",
+      "enTitle": "Two mechanisms of amino acid transport in a rare disease-associated protein revealed",
+      "url": "https://phys.org/news/2026-11-mechanisms-amino-acid-rare-disease.html",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "オカルト",
+      "source": "Mysterious Universe",
+      "title": "ラッセル・ターグと視界の彼方",
+      "enTitle": "Russell Targ and the Places Beyond Sight",
+      "url": "https://mysteriousuniverse.org/2026/11/Russell-Targ-and-the-Places-Beyond-Sight/",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "オカルト",
+      "source": "Mysterious Universe",
+      "title": "火災発生時、家には誰もいなかった。",
+      "enTitle": "Nobody Was Home When the Fire Started",
+      "url": "https://mysteriousuniverse.org/2026/11/Nobody-Was-Home-When-the-Fire-Started/",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "オカルト",
+      "source": "Mysterious Universe",
+      "title": "ウィリーはコテージを眠らせなかった",
+      "enTitle": "Willie Would Not Let the Cottage Sleep",
+      "url": "https://mysteriousuniverse.org/2026/11/Willie-Would-Not-Let-the-Cottage-Sleep/",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "オカルト",
+      "source": "The Debrief",
+      "title": "NASAのパーサビアランス探査車が火星で謎の淡い石を発見――古代生命の痕跡が保存されている可能性はあるのか？",
+      "enTitle": "Mysterious Pale Stones Discovered on Mars by NASA’s Perseverance Rover—Could They Preserve Signs of Ancient Life?",
+      "url": "https://thedebrief.org/mysterious-pale-stones-discovered-on-mars-by-nasas-perseverance-rover-could-they-preserve-signs-of-ancient-life/",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "オカルト",
+      "source": "The Debrief",
+      "title": "科学者たちが、鉱山会社が貴重な深海岩の中に生息する数千もの微小生物を発見",
+      "enTitle": "Scientists Discover Thousands of Tiny Creatures Living Inside Deep-Sea Rocks Prized by Mining Companies",
+      "url": "https://thedebrief.org/scientists-discover-thousands-of-tiny-creatures-living-inside-deep-sea-rocks-prized-by-mining-companies/",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "オカルト",
+      "source": "The Debrief",
+      "title": "謎の小惑星の加速は予想を覆しており、科学者たちは2031年の探査機による接近から新たな手がかりが得られることを期待している。",
+      "enTitle": "Mysterious Asteroid’s Acceleration is Defying Expectations as Scientists Anticipate New Clues from a 2031 Spacecraft Encounter",
+      "url": "https://thedebrief.org/mysterious-asteroids-acceleration-is-defying-expectations-as-scientists-anticipate-new-clues-from-a-2031-spacecraft-encounter/",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "キラキラ光る液体入りのコンピューターマウスを復活させてくれ",
+      "enTitle": "Bring back the glitter-and-liquid-filled computer mouse",
+      "url": "https://boingboing.net/2026/11/26/popkin-aqua-mice-liquid-computer-mice.html",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "誰かが30年間、感謝祭の願いの骨をすべて保存してきたが、願いが込められた骨は一つもなかった。",
+      "enTitle": "Someone has saved every Thanksgiving wishbone for 30 years, and none have been wished on",
+      "url": "https://boingboing.net/2026/11/26/popkin-lost-found-art-wishbone-collection.html",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "これらのスキャナープリントは、ヴィンテージの品々で作られた探し物ゲームのようなものです。",
+      "enTitle": "These scanner prints are like a search-and-find made of vintage objects",
+      "url": "https://boingboing.net/2026/11/26/popkin-reilly-dolan-scanner-trinket-prints.html",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "ブラックフライデー直前に飛び込んできた、ショッピング関連の噂15選",
+      "enTitle": "15 shopping-related rumors just in time for Black Friday",
+      "url": "https://www.snopes.com/collections/retail-shopping-collection/",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "ナーズやスニッカーズ、その他のアメリカのお菓子にはヒ素が含まれているのか？専門家に聞いてみました。",
+      "enTitle": "Is there arsenic in Nerds, Snickers, other US candies? We asked experts",
+      "url": "https://www.snopes.com/news/2026/11/26/arsenic-candy-products/",
+      "date": "2026/11/27 0:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "ブラックフライデー：その名前の由来",
+      "enTitle": "Black Friday: The history behind the name",
+      "url": "https://www.snopes.com/articles/474461/black-friday-history-name/",
+      "date": "2026/11/27 0:21"
+    },
     {
       "category": "科学",
       "source": "Live Science",
