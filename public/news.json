@@ -1,6 +1,190 @@
 {
-  "updatedAt": "2026/11/26 00:22",
+  "updatedAt": "2026/11/26 12:24",
   "items": [
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "心臓発作や脳卒中のリスクは30年先まで予測できる可能性がある、と研究が示唆",
+      "enTitle": "Your risk of heart attack and stroke could be forecasted 30 years in advance, study suggests",
+      "url": "https://www.livescience.com/health/heart-circulation/your-risk-of-heart-attack-and-stroke-could-be-forecasted-30-years-in-advance-study-suggests",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "ジェームズ・ウェッブ宇宙望遠鏡とユークリッド望遠鏡が、宇宙の果てで記録破りのブラックホールを発見",
+      "enTitle": "James Webb and Euclid telescopes discover record-breaking black hole at the edge of the universe",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-and-euclid-telescopes-discover-record-breaking-quasar-at-the-edge-of-the-universe",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "南極大陸の地下に存在する古代の「超山々」が地球上の複雑な生命を活性化させたとする研究結果が発表されたが、誰もが同意しているわけではない。",
+      "enTitle": "Ancient 'supermountains' under Antarctica supercharged complex life on Earth, study claims ‪—‬ but not everyone agrees",
+      "url": "https://www.livescience.com/planet-earth/antarctica/ancient-supermountains-under-antarctica-supercharged-complex-life-on-earth-study-claims-but-not-everyone-agrees",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "New Scientist",
+      "title": "海鳥の「スパイ」は、位置情報を発信していない船舶を発見するのに役立つ可能性がある。",
+      "enTitle": "Seabird ‘spies’ could help spot ships that aren’t broadcasting their location",
+      "url": "https://www.newscientist.com/article/2600830-seabird-spies-could-help-spot-ships-that-arent-broadcasting-their-location/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "New Scientist",
+      "title": "AIの数学における驚異的な進歩は、私たちが数学をいかに理解していないかを示している。",
+      "enTitle": "AI’s stunning progress in maths shows how little we understand it",
+      "url": "https://www.newscientist.com/article/2600491-ais-stunning-progress-in-maths-shows-how-little-we-understand-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "New Scientist",
+      "title": "クリス・ベケット著『ダーク・エデン』に対する我々の評価：「なんてこった。第44章だ！」",
+      "enTitle": "Our verdict on Dark Eden by Chris Beckett: ‘Holy cow. Chapter 44!’",
+      "url": "https://www.newscientist.com/article/2600426-our-verdict-on-dark-eden-by-chris-beckett-holy-cow-chapter-44/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Futurism",
+      "title": "GTA 6のパブリッシャーが、リバースエンジニアがPC版を動作させたことに激怒",
+      "enTitle": "GTA 6 Publisher Furious as Reverse Engineers Get It Running on PC",
+      "url": "https://futurism.com/future-society/gta-6-publisher-furious-reverse-engineers-pc",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Futurism",
+      "title": "ジェンセン・ホアンの流出した私的な発言は、その偽善ぶりにおいて実に驚くべきものだ",
+      "enTitle": "Jensen Huang’s Leaked Private Remarks Are Absolutely Stunning in Their Hypocrisy",
+      "url": "https://futurism.com/artificial-intelligence/jensen-huangs-leaked-remarks-stunning-hypocrisy",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Futurism",
+      "title": "軍は「汚い爆弾」爆発後、住民に屋内にとどまるよう指示するとともに、屋外の表面から有毒な残留物を清掃するよう指示した。",
+      "enTitle": "Military Instructs Residents to Remain Indoors After “Dirty Bomb” Blast, But to Also Clean Toxic Residue Off Outdoor Surfaces",
+      "url": "https://futurism.com/science-energy/military-army-bomb-blast-toxic-lead-residue",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "私たちは本当に、海よりも宇宙について多くのことを知っているのだろうか？",
+      "enTitle": "Do we really know more about space than the ocean?",
+      "url": "https://phys.org/news/2026-11-space-ocean.html",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "解決から「消化」へ：数学者はAIがもたらした劇的な変化にどのように適応できるか",
+      "enTitle": "From solving to 'digesting': How mathematicians can adapt to the dramatic changes AI has brought to their field",
+      "url": "https://phys.org/news/2026-11-digesting-mathematicians-ai-brought-field.html",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "恐竜は猛禽類のように肉を引き裂いて食べていた可能性が高い",
+      "enTitle": "Dinosaurs likely tore meat like birds of prey",
+      "url": "https://phys.org/news/2026-11-dinosaurs-tore-meat-birds-prey.html",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Improbable Research",
+      "title": "イグノーベル賞がラジオ番組「サイエンス・フライデー」で放送される",
+      "enTitle": "Ig Nobel Prizes broadcast on the Science Friday radio program",
+      "url": "https://improbable.com/2026/11/25/ig-nobel-prizes-broadcast-on-the-science-friday-radio-program/",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "裏歴史",
+      "source": "Atlas Obscura",
+      "title": "マサチューセッツ州ハドリーにあるホッカナム・スクールハウス",
+      "enTitle": "Hockanum School House in Hadley, Massachusetts",
+      "url": "https://www.atlasobscura.com/places/hockanum-school-house",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "裏歴史",
+      "source": "Atlas Obscura",
+      "title": "イリノイ州シカゴの隠れたシュピーゲルテント",
+      "enTitle": "The Hidden Spiegeltent in Chicago, Illinois",
+      "url": "https://www.atlasobscura.com/places/the-hidden-spiegeltent",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "裏歴史",
+      "source": "Atlas Obscura",
+      "title": "フランス、ノワールムティエ・アン・リルにあるCimetière Marin de l'Herbaudière",
+      "enTitle": "Cimetière Marin de l'Herbaudière in Noirmoutier-en-l'Île, France",
+      "url": "https://www.atlasobscura.com/places/cimetiere-marin-de-lherbaudiere",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "裏歴史",
+      "source": "All That's Interesting",
+      "title": "53人のピルグリムと90人のワンパノアグ族の人々がどのようにして最初の感謝祭を祝ったのか",
+      "enTitle": "How 53 Pilgrims And 90 Wampanoag People Came Together To Celebrate The First Thanksgiving",
+      "url": "https://allthatsinteresting.com/first-thanksgiving",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "このブラックフライデー先行セールでは、ChatGPT、Gemini、DeepSeekが一律54.97ドルで競い合います。",
+      "enTitle": "This early Black Friday deal pits ChatGPT, Gemini, and DeepSeek against each other for a flat $54.97",
+      "url": "https://boingboing.net/2026/11/25/this-early-black-friday-deal-pits-chatgpt-gemini-and-deepseek-against-each-other-for-a-flat-54-97.html",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "ニューヨーク州、AI搭載の子供向け玩具を禁止",
+      "enTitle": "New York bans childrens' toys with AI",
+      "url": "https://boingboing.net/2026/11/25/new-york-bans-childrens-toys-with-ai.html",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "韓国は試験中の携帯電話を使った不正行為を取り締まるため、国家警報システムを導入した。",
+      "enTitle": "South Korea uses national alert system to catch cellphone cheaters in exams",
+      "url": "https://boingboing.net/2026/11/25/south-korea-uses-national-alert-system-to-catch-cellphone-cheaters-in-exams.html",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "檻に閉じ込められた子供たちの映像とされるものは、エプスタインのファイルからのものではない。",
+      "enTitle": "Alleged footage of children locked in cages isn't from Epstein files",
+      "url": "https://www.snopes.com/fact-check/video-children-cages-epstein-files/",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "陸軍はアイオワ州でアジ化鉛以外の化学物質を爆破する計画を立てていたのか？",
+      "enTitle": "Did Army plan to detonate chemicals other than lead azide in Iowa?",
+      "url": "https://www.snopes.com/news/2026/11/25/redacted-memo-lead-azide-iowa/",
+      "date": "2026/11/26 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "トランプ氏は、Nvidiaがジェンセン・フアン氏を復職させる前に、同社に300万ドルを投資したのか？",
+      "enTitle": "Did Trump invest $3M in Nvidia before it reinstated Jensen Huang?",
+      "url": "https://www.snopes.com/news/2026/11/25/trump-nvidia-jensen-huang/",
+      "date": "2026/11/26 12:21"
+    },
     {
       "category": "科学",
       "source": "Live Science",
