@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026/11/27 12:21",
+  "updatedAt": "2026/11/28 00:22",
   "items": [
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "ジェームズ・ウェッブ宇宙望遠鏡がビッグバンからわずか4億5000万年後に謎の赤い天体を発見――それは生まれたばかりのブラックホールかもしれない",
+      "enTitle": "James Webb telescope discovers mysterious red object just 450 million years after the Big Bang — and it could be a baby black hole",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-earliest-little-red-dot-candidate-yet-just-450-million-years-after-the-big-bang",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "DARPAは、マイクロソフトの物議を醸している量子コンピューティング技術を評価している。もしMajorana 2プラットフォームの正当性が証明された場合、何が起こるだろうか？",
+      "enTitle": "DARPA is assessing Microsoft's controversial quantum computing technology. What will happen if the Majorana 2 platform is vindicated?",
+      "url": "https://www.livescience.com/technology/quantum/darpa-is-assessing-microsofts-controversial-quantum-computing-technology-what-will-happen-if-the-majorana-2-platform-is-vindicated",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "New Scientist",
+      "title": "迷走神経刺激は膵臓がんの増殖と転移を遅らせる",
+      "enTitle": "Vagus nerve stimulation slows growth and spread of pancreatic cancer",
+      "url": "https://www.newscientist.com/article/2601187-vagus-nerve-stimulation-slows-growth-and-spread-of-pancreatic-cancer/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "New Scientist",
+      "title": "ニュー・サイエンティスト・ブッククラブ：尿が人類の歴史の流れをどのように変えたか",
+      "enTitle": "New Scientist Book Club: How urine changed the course of human history",
+      "url": "https://www.newscientist.com/article/2601034-new-scientist-book-club-how-urine-changed-the-course-of-human-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "New Scientist",
+      "title": "キット・チャップマン著『錬金術の時代』からの抜粋をお読みください。",
+      "enTitle": "Read an extract from The Age of Alchemy by Kit Chapman",
+      "url": "https://www.newscientist.com/article/2601043-read-an-extract-from-the-age-of-alchemy-by-kit-chapman/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Futurism",
+      "title": "破産したチャットボットスタートアップ企業が大量の児童データを売却しようと試みるも、奇妙な名前の入札者の身元を隠蔽しようとして失敗",
+      "enTitle": "Bankrupt Chatbot Startup Looking to Sell Troves of Child Data Tries and Fails to Conceal the Identity of Weirdly Named Bidder",
+      "url": "https://futurism.com/artificial-intelligence/bankrupt-chatbot-startup-sell-child-data",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Futurism",
+      "title": "MIT教授によると、アントロピック社の従業員は酒を数杯飲んだ後、政府転覆と世界征服について話し始めるという。",
+      "enTitle": "MIT Professor Says After a Few Drinks, Anthropic Employees Start Talking About Overthrowing the Government and Taking Over the World",
+      "url": "https://futurism.com/artificial-intelligence/mit-professor-anthropic-overthrowing-government",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Futurism",
+      "title": "麻薬取締局（DEA）はフェンタニルを押収する代わりに、街に出回るのを放置していたことが調査で判明",
+      "enTitle": "The DEA Is Letting Fentanyl Hit the Streets Instead of Seizing It, Investigation Finds",
+      "url": "https://futurism.com/health-medicine/dea-federal-agents-fentanyl-pills-investigation",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "3Dモデリングに関する疑問：バイキングの「ファストファッション」",
+      "enTitle": "3D modeling questions Viking 'fast fashion'",
+      "url": "https://phys.org/news/2026-11-3d-viking-fast-fashion.html",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "ラマン分光法と砂糖小屋の出会い",
+      "enTitle": "Raman spectroscopy meets the sugar shack",
+      "url": "https://phys.org/news/2026-11-raman-spectroscopy-sugar-shack.html",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "地球の2倍の質量を持つ隠された惑星が、海王星以遠の奇妙な軌道を説明できるだろうか？",
+      "enTitle": "Could a hidden planet twice Earth's mass explain strange orbits beyond Neptune?",
+      "url": "https://phys.org/news/2026-11-hidden-planet-earth-mass-strange.html",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "オカルト",
+      "source": "Mysterious Universe",
+      "title": "何かがハイウェイ35号線を横切った",
+      "enTitle": "Something Ran Across Highway 35",
+      "url": "https://mysteriousuniverse.org/2026/11/Something-Ran-Across-Highway-35/",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "裏歴史",
+      "source": "All That's Interesting",
+      "title": "過去100年間でメイシーズ感謝祭パレードがどのように変化してきたかを明らかにする33枚の写真",
+      "enTitle": "33 Photos That Reveal How The Macy’s Thanksgiving Day Parade Has Transformed Over The Past Century",
+      "url": "https://allthatsinteresting.com/macys-thanksgiving-day-parade",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "ドアノブをアルミホイルで包むと、夜一人でいるときに安全が確保できるのでしょうか？",
+      "enTitle": "Does wrapping your doorknob in foil keep you safe if alone at night?",
+      "url": "https://www.snopes.com/fact-check/foil-doorknob-alone-night/",
+      "date": "2026/11/28 0:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "米陸軍はアイオワ州ミドルタウンで大量の鉛アジドを爆破する計画を立てているのか？",
+      "enTitle": "Is US Army planning to detonate massive amount of lead azide in Middletown, Iowa?",
+      "url": "https://www.snopes.com/fact-check/lead-azide-detonation-army-iowa/",
+      "date": "2026/11/28 0:21"
+    },
     {
       "category": "科学",
       "source": "Live Science",
@@ -1079,126 +1199,6 @@
       "title": "KKKがカリブ海の国を白人至上主義者の楽園に変えようとした失敗に終わった計画の内幕",
       "enTitle": "Inside The KKK’s Botched Plan To Turn A Caribbean Nation Into A Haven For White Supremacists",
       "url": "https://allthatsinteresting.com/operation-red-dog",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "All That's Interesting",
-      "title": "20世紀初頭の「雨乞い師」チャールズ・ハットフィールド：嵐を呼び起こすことができると主張した人物",
-      "enTitle": "Charles Hatfield, The Early 20th-Century ‘Rainmaker’ Who Claimed To Be Able To Conjure Storms",
-      "url": "https://allthatsinteresting.com/charles-hatfield",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "Messy Nessy Chic",
-      "title": "今日インターネットで見つけた13のこと（第783回）",
-      "enTitle": "13 Things I Found on the Internet Today (Vol. 783)",
-      "url": "https://www.messynessychic.com/2026/11/17/13-things-i-found-on-the-internet-today-vol-783/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "Messy Nessy Chic",
-      "title": "今日インターネットで見つけた13のこと（第782回）",
-      "enTitle": "13 Things I Found on the Internet Today (Vol.782)",
-      "url": "https://www.messynessychic.com/2026/11/03/13-things-i-found-on-the-internet-today-vol-782/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "Messy Nessy Chic",
-      "title": "今日インターネットで見つけた13のこと（第781回）",
-      "enTitle": "13 Things I Found on the Internet Today (Vol. 781)",
-      "url": "https://www.messynessychic.com/2026/10/28/13-things-i-found-on-the-internet-today-vol-781/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "Cult of Weird",
-      "title": "最初のミレニアル世代の聖人が、デジタル時代に私たちを祝福するためにここにいる",
-      "enTitle": "The First Millennial Saint is Here to Bless Us in the Digital Age",
-      "url": "https://www.cultofweird.com/death/carlo-acutis-millennial-saint/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "Cult of Weird",
-      "title": "ベスビオ山の犠牲者の脳がガラス状になる",
-      "enTitle": "Mt. Vesuvius Victim’s Brain Turned to Glass",
-      "url": "https://www.cultofweird.com/news/vesuvius-glass-brain/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "Cult of Weird",
-      "title": "動画：エド・ゲインによるウィスコンシン州プレインフィールドのツアー",
-      "enTitle": "VIDEO: Ed Gein Tour of Plainfield, WI",
-      "url": "https://www.cultofweird.com/blog/ed-gein-plainfield-tour/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "B級事件",
-      "source": "Oddity Central",
-      "title": "起業家が、優しく掻いてもらうことで顧客がリラックスできるユニークなサロンをオープン",
-      "enTitle": "Entrepreneur Opens Unique Salons Where Customers Relax By Being Gently Scratched",
-      "url": "https://www.odditycentral.com/news/entrepreneur-opens-unique-salons-where-customers-relax-by-being-gently-scratched.html?utm_source=rss&utm_medium=rss&utm_campaign=entrepreneur-opens-unique-salons-where-customers-relax-by-being-gently-scratched",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "B級事件",
-      "source": "Oddity Central",
-      "title": "男性逃亡犯が性別を変えて女性として生活することで8年間逮捕を免れる",
-      "enTitle": "Male Fugitive Avoids Capture for 8 Years by Changing Gender and Living as a Woman",
-      "url": "https://www.odditycentral.com/news/male-fugitive-avoids-capture-for-8-years-by-changing-gender-and-living-as-a-woman.html?utm_source=rss&utm_medium=rss&utm_campaign=male-fugitive-avoids-capture-for-8-years-by-changing-gender-and-living-as-a-woman",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "B級事件",
-      "source": "Oddity Central",
-      "title": "カタールの13歳のバレーボール界の巨人がアジア選手権で注目を集める",
-      "enTitle": "Qatar’s 13-Year-Old Volleybal Giant Raises Eyebrows at Asian Championship",
-      "url": "https://www.odditycentral.com/news/qatars-13-year-old-volleybal-giant-raises-eyebrows-at-asian-championship.html?utm_source=rss&utm_medium=rss&utm_campaign=qatars-13-year-old-volleybal-giant-raises-eyebrows-at-asian-championship",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "B級事件",
-      "source": "Boing Boing",
-      "title": "好きな本を尋ねられたメラニア夫人は、「メラニア」だと答えた。",
-      "enTitle": "Asked her favorite book, Melania said it was 'Melania'",
-      "url": "https://boingboing.net/2026/11/23/melania-the-series-reviews.html",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "B級事件",
-      "source": "Boing Boing",
-      "title": "多くのイギリス人は、悪名高いほど陰鬱な国歌を嫌っている。",
-      "enTitle": "Many Britons dislike their famously grim national anthem",
-      "url": "https://boingboing.net/2026/11/23/brits-dislike-their-famously-grim-national-anthem.html",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "B級事件",
-      "source": "Boing Boing",
-      "title": "バイユーのタペストリーを題材にしたテーブルトークRPG",
-      "enTitle": "A table-top RPG based on the Bayeux Tapestry",
-      "url": "https://boingboing.net/2026/11/23/a-table-top-rpg-based-on-the-bayeax-tapestry.html",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "B級事件",
-      "source": "Snopes",
-      "title": "シカゴの国土安全保障省（HSI）は、Appleの「ライブリスニング」機能について不正確な警告を発したのか？",
-      "enTitle": "Did Chicago HSI send inaccurate warning about Apple's 'Live Listen' feature?",
-      "url": "https://www.snopes.com/fact-check/homeland-security-live-listen-warning/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "B級事件",
-      "source": "Snopes",
-      "title": "米国の銀行は、AIエージェントの誤作動について顧客が責任を負う可能性があると警告しているのか？",
-      "enTitle": "Are US banks warning customers they could be responsible for AI agents' errors?",
-      "url": "https://www.snopes.com/fact-check/banks-ai-agents-customer-responsible/",
       "date": "2026/11/24 13:10"
     }
   ]
