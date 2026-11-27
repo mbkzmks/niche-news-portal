@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026/11/27 00:22",
+  "updatedAt": "2026/11/27 12:21",
   "items": [
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "記録上最高齢のオスのシャチは、過去の原爆実験のおかげで特定された可能性がある。",
+      "enTitle": "Oldest male orca on record may have been identified thanks to historical atomic bomb testing",
+      "url": "https://www.livescience.com/animals/orcas/oldest-male-orca-on-record-may-have-been-identified-thanks-to-historical-atomic-bomb-testing",
+      "date": "2026/11/27 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "「アルファガルはどのルールにも従わない」：ダニ刺されが引き起こす赤身肉アレルギーが科学者を困惑させる理由",
+      "enTitle": "Alpha-gal follows none of the rules': Why a red-meat allergy triggered by tick bites is perplexing scientists",
+      "url": "https://www.livescience.com/health/alpha-gal-follows-none-of-the-rules-why-a-red-meat-allergy-triggered-by-tick-bites-is-perplexing-scientists",
+      "date": "2026/11/27 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "初期の音楽へのデジタルアクセス",
+      "enTitle": "Digital access to early music",
+      "url": "https://phys.org/news/2026-11-digital-access-early-music.html",
+      "date": "2026/11/27 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "分子ケージ触媒の性能に大きな違いが見られる理由",
+      "enTitle": "Why molecular cage catalysts show enormous differences in performance",
+      "url": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html",
+      "date": "2026/11/27 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "DESTINYモデルは、星間空間の不均一な氷に覆われた粒子上の分子化学を追跡する。",
+      "enTitle": "DESTINY model tracks molecular chemistry on uneven, ice-covered grains in interstellar space",
+      "url": "https://phys.org/news/2026-11-destiny-tracks-molecular-chemistry-uneven.html",
+      "date": "2026/11/27 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "素晴らしいシュピーゲルの表紙: AI 独裁者",
+      "enTitle": "Fabulous Der Spiegel cover: The AI Dictators",
+      "url": "https://boingboing.net/2026/11/26/fabulous-der-spiegel-cover-the-ai-dictators.html",
+      "date": "2026/11/27 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "このブラックフライデー先行セールでPDF処理を効率化しましょう",
+      "enTitle": "Streamline your PDF process with this Early Black Friday deal",
+      "url": "https://boingboing.net/2026/11/26/streamline-your-pdf-process-with-this-early-black-friday-deal.html",
+      "date": "2026/11/27 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "グランド・セフト・オートのラジオ局のオンラインアーカイブ",
+      "enTitle": "Online archive of Grand Theft Auto radio stations",
+      "url": "https://boingboing.net/2026/11/26/online-archive-of-grand-theft-auto-radio-stations.html",
+      "date": "2026/11/27 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "この写真は、ノーベル賞を受賞した物理学者アルバート・アインシュタインとマリー・キュリーが話しているところを写したものですか？",
+      "enTitle": "Does photo show Nobel Prize-winning physicists Albert Einstein and Marie Curie talking?",
+      "url": "https://www.snopes.com/fact-check/einstein-marie-curie-photo/",
+      "date": "2026/11/27 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "KGBが1987年にトランプを勧誘したという根拠のない主張がなぜ広まり続けているのか",
+      "enTitle": "Why unproven claim KGB recruited Trump in 1987 continues circulating",
+      "url": "https://www.snopes.com/news/2026/11/26/trump-kgb-asset-krasnov/",
+      "date": "2026/11/27 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "イスラム教はアメリカで最も急速に成長している宗教なのか？データを検証してみた。",
+      "enTitle": "Is Islam the fastest growing religion in the US? We checked the data",
+      "url": "https://www.snopes.com/fact-check/islam-us-growth/",
+      "date": "2026/11/27 12:21"
+    },
     {
       "category": "科学",
       "source": "Live Science",
@@ -1111,14 +1199,6 @@
       "title": "米国の銀行は、AIエージェントの誤作動について顧客が責任を負う可能性があると警告しているのか？",
       "enTitle": "Are US banks warning customers they could be responsible for AI agents' errors?",
       "url": "https://www.snopes.com/fact-check/banks-ai-agents-customer-responsible/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "B級事件",
-      "source": "Snopes",
-      "title": "トランプは、ジェンセン・フアンがバトラーでの集会の写真で赤いブラジャーを持っているミームを投稿したのか？",
-      "enTitle": "Did Trump post meme of Jensen Huang holding red bra in Butler rally photo?",
-      "url": "https://www.snopes.com/fact-check/trump-huang-red-bra-image/",
       "date": "2026/11/24 13:10"
     }
   ]
