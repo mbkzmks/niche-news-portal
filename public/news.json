@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026/11/28 00:22",
+  "updatedAt": "2026/11/28 12:22",
   "items": [
+    {
+      "category": "科学",
+      "source": "Live Science",
+      "title": "なぜ人類は最後の生き残りなのか？ネアンデルタール人との交配が明らかにする、私たちとネアンデルタール人との違いとは？",
+      "enTitle": "Why are we the last humans standing? What interbreeding with Neanderthals reveals about the differences between us.",
+      "url": "https://www.livescience.com/archaeology/neanderthals/why-are-we-the-last-humans-standing-what-interbreeding-with-neanderthals-reveals-about-the-differences-between-us",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Futurism",
+      "title": "Metaのコンテンツモデレーションは、人間によるレビューからAIへの移行後、深刻な不具合が生じていると言われている。",
+      "enTitle": "Meta’s Content Moderation Said to Be Severely Broken After Moving to Human Reviewers to AI",
+      "url": "https://futurism.com/artificial-intelligence/meta-content-moderation-broken-ai",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Futurism",
+      "title": "TidalがAI音楽を禁止、2900万曲の低品質楽曲の削除に着手",
+      "enTitle": "Tidal Bans AI Music, Moves to Delete 29 Million Slop Songs",
+      "url": "https://futurism.com/future-society/tidal-bans-ai-music",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Futurism",
+      "title": "財務省高官は、歴史的なハッキング事件に対処する代わりに、粗悪なビデオゲームのクローンをバイブコーディングするのに忙しすぎる",
+      "enTitle": "Top Treasury Official Is Too Busy Vibe Coding a Crappy Video Game Clone Instead of Addressing a Historic Hack",
+      "url": "https://futurism.com/artificial-intelligence/top-treasury-official-vibe-coding-hack",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "イベントホライズンテレスコープは、ブラックホールジェットの力学と形状を極めて詳細に観測する。",
+      "enTitle": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
+      "url": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "宇宙データセンターは、太陽光発電パネル、原子力発電所、あるいはその両方で稼働させるべきだろうか？",
+      "enTitle": "Should space data centers run on solar panels, nuclear reactors or both?",
+      "url": "https://phys.org/news/2026-11-space-centers-solar-panels-nuclear.html",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "科学",
+      "source": "Phys.org",
+      "title": "新技術の活用により、自然史博物館は改修された庭園で92種の生物を発見した。",
+      "enTitle": "New technologies help Natural History Museum uncover 92 species in its transformed gardens",
+      "url": "https://phys.org/news/2026-11-technologies-natural-history-museum-uncover.html",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "この2頭のカーペットパイソンは、人間が飼えるペットの中でも最高にクールな生き物の1つだ。",
+      "enTitle": "This two-headed carpet python is one of the coolest pets a person could own",
+      "url": "https://boingboing.net/2026/11/27/popkin-two-headed-carpet-python.html",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "ピッツバーグとニューヨーク市を結ぶアムトラックの新列車が旅行者に大好評",
+      "enTitle": "New Amtrak train between Pittsburgh and New York City a hit with travelers",
+      "url": "https://boingboing.net/2026/11/27/new-amtrak-train-between-pittsburgh-and-new-york-city-a-hit-with-travelers.html",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Boing Boing",
+      "title": "英国政府は、富裕層が裁判所を利用して批判者を黙らせるのを阻止するため、反SLAPP法を制定すると表明した。",
+      "enTitle": "UK government pledges anti-SLAPP law to stop rich using courts to silence critics",
+      "url": "https://boingboing.net/2026/11/27/uk-government-pledges-anti-slapp-law-to-stop-rich-using-courts-to-silence-critics.html",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "トランプ氏は報道官の職を、間違った人物であるダナ・ホワイト氏に提示したのか？",
+      "enTitle": "Did Trump offer press secretary job to wrong Dana White?",
+      "url": "https://www.snopes.com/news/2026/11/09/trump-press-secretary-dana-white/",
+      "date": "2026/11/28 12:21"
+    },
+    {
+      "category": "B級事件",
+      "source": "Snopes",
+      "title": "ケイティ・ミラーは、チャイルドシートの義務化は「出生率を低下させる」と言ったのですか？",
+      "enTitle": "Did Katie Miller say car seat mandates would 'kill the birth rate'?",
+      "url": "https://www.snopes.com/fact-check/kate-miller-car-seats/",
+      "date": "2026/11/28 12:21"
+    },
     {
       "category": "科学",
       "source": "Live Science",
@@ -1103,102 +1199,6 @@
       "title": "終末の日：2026年11月13日（金）",
       "enTitle": "Doomsday: Friday, 13 November, 2026",
       "url": "https://improbable.com/2026/11/10/doomsday-friday-13-november-2026/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "科学",
-      "source": "Improbable Research",
-      "title": "スパゲッティと鉛筆",
-      "enTitle": "Spaghetti and Pencils",
-      "url": "https://improbable.com/2026/11/03/spaghetti-and-pencils/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "オカルト",
-      "source": "Anomalien.com",
-      "title": "ヘルファイアミサイル搭載UFOの映像が議会で公開される",
-      "enTitle": "Hellfire Missile UFO Video Shown to Congres",
-      "url": "https://anomalien.com/hellfire-missile-ufo-video-shown-to-congres/?utm_source=rss&utm_medium=rss&utm_campaign=hellfire-missile-ufo-video-shown-to-congres",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "オカルト",
-      "source": "Anomalien.com",
-      "title": "USOハイウェイズ：UFOは海を利用しているのか？",
-      "enTitle": "USO Highways: Are UFOs Using the Ocean?",
-      "url": "https://anomalien.com/uso-highways-are-ufos-using-the-ocean/?utm_source=rss&utm_medium=rss&utm_campaign=uso-highways-are-ufos-using-the-ocean",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "オカルト",
-      "source": "Anomalien.com",
-      "title": "オーストリアの丘の上の聖堂で象牙製の聖体容器が発見される",
-      "enTitle": "Ivory Pyx Found in Austrian Hilltop Shrine",
-      "url": "https://anomalien.com/ivory-pyx-found-in-austrian-hilltop-shrine/?utm_source=rss&utm_medium=rss&utm_campaign=ivory-pyx-found-in-austrian-hilltop-shrine",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "オカルト",
-      "source": "Cryptomundo",
-      "title": "マウンテンデューがビッグフットに100万ドルの懸賞金をかける",
-      "enTitle": "Mountain Dew $1 Million Bigfoot Bounty",
-      "url": "https://cryptomundo.com/bigfoot-report/mountain-dew-bigfoot-bounty/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "オカルト",
-      "source": "Cryptomundo",
-      "title": "ビッグフットの生息地で迷子に：太平洋岸北西部とアラスカで起きた、最も大きな航空機失踪事件10選",
-      "enTitle": "Lost in Bigfoot Country: The 10 Greatest Missing Aircraft Mysteries of the Pacific Northwest and Alaska",
-      "url": "https://cryptomundo.com/bigfoot-report/lost-in-bigfoot-country-the-10-greatest-missing-aircraft-mysteries-of-the-pacific-northwest-and-alaska/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "オカルト",
-      "source": "Cryptomundo",
-      "title": "霧の中の獣たち",
-      "enTitle": "Beasts in the Mist",
-      "url": "https://cryptomundo.com/bigfoot-report/beasts-in-the-mist/",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "Atlas Obscura",
-      "title": "スペイン、マドリッドの「エル・ヴァガムンドス」",
-      "enTitle": "‘El Vagamundos’ in Madrid, Spain",
-      "url": "https://www.atlasobscura.com/places/el-vagamundos",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "Atlas Obscura",
-      "title": "テキサス州ポートラバカのインディアノーラ",
-      "enTitle": "Indianola in Port Lavaca, Texas",
-      "url": "https://www.atlasobscura.com/places/indianola",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "Atlas Obscura",
-      "title": "テクノの未来はモンテレイで形作られている",
-      "enTitle": "The Future of Techno Is Being Forged in Monterrey",
-      "url": "https://www.atlasobscura.com/articles/mexico-foundry-electronic-music-festival",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "All That's Interesting",
-      "title": "モルドバの考古学者が17世紀の銀製の宝物を発掘。その中には蛇の頭と音を出すように設計されたボタンが付いたベルトの留め金も含まれている。",
-      "enTitle": "Archaeologists In Moldova Unearthed 17th-Century Silver Treasure Including A Belt Clasp With Snake Heads And Buttons Designed To Make Noise",
-      "url": "https://allthatsinteresting.com/moldova-17th-century-silver-treasure",
-      "date": "2026/11/24 13:10"
-    },
-    {
-      "category": "裏歴史",
-      "source": "All That's Interesting",
-      "title": "KKKがカリブ海の国を白人至上主義者の楽園に変えようとした失敗に終わった計画の内幕",
-      "enTitle": "Inside The KKK’s Botched Plan To Turn A Caribbean Nation Into A Haven For White Supremacists",
-      "url": "https://allthatsinteresting.com/operation-red-dog",
       "date": "2026/11/24 13:10"
     }
   ]
